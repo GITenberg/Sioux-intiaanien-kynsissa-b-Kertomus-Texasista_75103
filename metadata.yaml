@@ -1,0 +1,25 @@
+_repo: Sioux-intiaanien-kynsissa-b-Kertomus-Texasista_75103
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nord, Emil von
+    gutenberg_agent_id: '57826'
+    url: http://www.gutenberg.org/2009/agents/57826
+description: ''
+gutenberg_issued: '2025-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75103'
+language: fi
+pgterms:marc905: 20250111010915nord
+pgterms:marc906: '1903'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aHamina :$bAlfred Lagerbom, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Sioux-intiaanien kynsissä : $b Kertomus Texasista'
+url: http://www.gutenberg.org/ebooks/75103
