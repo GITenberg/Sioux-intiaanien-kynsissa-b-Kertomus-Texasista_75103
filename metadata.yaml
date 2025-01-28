@@ -1,11 +1,16 @@
 _repo: Sioux-intiaanien-kynsissa-b-Kertomus-Texasista_75103
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Nord, Emil von
     gutenberg_agent_id: '57826'
     url: http://www.gutenberg.org/2009/agents/57826
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75103#Sioux-intiaanien-kynsissa-b-Kertomus-Texasista
 gutenberg_issued: '2025-01-13'
 gutenberg_type: Text
 identifiers:
